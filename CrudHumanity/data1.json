@@ -1,0 +1,43 @@
+
+[
+    {
+        "firstname": "Sachin",
+        "lastname": "Tendulkar",
+        "email": "tendulkar@gmail.com"
+    },
+    {
+        "firstname": "Roger",
+        "lastname": "Federer",
+        "email": "Federer@gmail.com"
+    },
+    {
+        "firstname": "David",
+        "lastname": "Beckham",
+        "email": "Beckham@gmail.com"
+    },
+    {
+        "firstname": "Tiger",
+        "lastname": "Woods",
+        "email": "Woods@gmail.com"
+    },
+    {
+        "firstname": "Sebastian",
+        "lastname": "Vettel",
+        "email": "Vettel@gmail.com"
+    },
+    {
+        "firstname": "Maria",
+        "lastname": "Sharapova",
+        "email": "Sharapova@gmail.com"
+    },
+    {
+        "firstname": "Viswanathan",
+        "lastname": "Anand",
+        "email": "Anand@gmail.com"
+    },
+    {
+        "firstname": "Donald",
+        "lastname": "Bradman",
+        "email": "Bradman@gmail.com"
+    }
+]
